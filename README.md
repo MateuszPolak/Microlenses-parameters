@@ -5,7 +5,7 @@ Algorithm to analyse parameters of microlenses array based on their hologram ima
 ## Disclaimer! 
 Rest of the project including initial images, files and methods used are not available due to copyright.
 
-## Projest goal
+## Project goal
 The main goal of this project was to develop algorithm to analyse parameters of microlenses based on their hologram images. Maximal automatization of this process was desirable. Project was divided into three parts. At the beginning different numerical propagations algorithms and autofocusing methods was tested to obtain the sharpness possible image of microlenses. The second part was to automatically detect lenses (circles) and get their position coordinates as well as radius of each particular lens. Third and the last part was to connect together two previous tasks, use various phase unwrapping methods and calculate final microlenses parameters.
 
 ## General processing path
